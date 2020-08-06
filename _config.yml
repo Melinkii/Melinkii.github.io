@@ -41,12 +41,14 @@ plainwhite:
 # Build settings
 theme: plainwhite
 
-valine:
-  shortname: Yilin # enter this from your disqus account
-  categories: [blog, notes,tech] # only show disqus for posts that have these categories  
-  appId: 'OzXUe8yuzTpx9H4nkPXHk7iL-gzGzoHsz'
-  appKey: '4GnKcv2faGgLALNiClQ6SLee'
-  visitors: true
+valine_comment:
+  enable: true
+# app_id
+  leancloud_appid: OzXUe8yuzTpx9H4nkPXHk7iL-gzGzoHsz
+# app_key
+  leancloud_appkey: 4GnKcv2faGgLALNiClQ6SLee
+# placeholde
+  placeholder: “Just go go"
 
 plugins:
   - jekyll-seo-tag
