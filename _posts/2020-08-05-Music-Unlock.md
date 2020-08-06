@@ -13,7 +13,9 @@ categories: Music Unlock
 
 ##### *只支持Win10！！！！*
 
-复制以下所有代码，打开![image-20200806175715656](https://yilinfile-1258058813.cos.ap-shanghai.myqcloud.com/imagebed/20200806175715.png)
+复制以下所有代码，打开
+
+![image-20200806175715656](https://yilinfile-1258058813.cos.ap-shanghai.myqcloud.com/imagebed/20200806175715.png)
 
 粘贴，Enter。
 
@@ -356,7 +358,9 @@ while ($True) {
 }
 ```
 
-会显示界面![image-20200806175910871](https://yilinfile-1258058813.cos.ap-shanghai.myqcloud.com/imagebed/20200806175910.png)
+会显示界面
+
+![image-20200806175910871](https://yilinfile-1258058813.cos.ap-shanghai.myqcloud.com/imagebed/20200806175910.png)
 
 先输入“1”，Enter。
 
@@ -382,7 +386,9 @@ kuwo migu qq baidu xiami kugou
 
 否则，每次开机都要设置一次。
 
-按任意键，待![image-20200806180556943](https://yilinfile-1258058813.cos.ap-shanghai.myqcloud.com/imagebed/20200806180557.png)
+按任意键，待
+
+![image-20200806180556943](https://yilinfile-1258058813.cos.ap-shanghai.myqcloud.com/imagebed/20200806180557.png)
 
 再次出现，
 
@@ -404,6 +410,6 @@ kuwo migu qq baidu xiami kugou
 
 退出
 
-![image-20200806180937806](https://yilinfile-1258058813.cos.ap-shanghai.myqcloud.com/imagebed/20200806180938.png)
+![image-20200806180937806](https://yilinfile-1258058813.cos.ap-shanghai.myqcloud.com/imagebed/20200806192454.png)
 
 即可免费，免登录畅听QQ音乐里的付费歌曲
