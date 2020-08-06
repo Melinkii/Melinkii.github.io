@@ -11,13 +11,9 @@ categories: HomeWork Fuck
 
 ![image-20200806193255119](https://yilinfile-1258058813.cos.ap-shanghai.myqcloud.com/imagebed/20200806193256.png)
 
-![https://yilinfile-1258058813.cos.ap-shanghai.myqcloud.com/imagebed/20200806194131.png](https://yilinfile-1258058813.cos.ap-shanghai.myqcloud.com/imagebed/20200806194131.png)
-
 数学   **↓ ↓ ↓**
 
 ![image-20200806193556030](https://yilinfile-1258058813.cos.ap-shanghai.myqcloud.com/imagebed/20200806193558.png)
-
-![https://yilinfile-1258058813.cos.ap-shanghai.myqcloud.com/imagebed/20200806194131.png](https://yilinfile-1258058813.cos.ap-shanghai.myqcloud.com/imagebed/20200806194219.png)
 
 英语   **↓ ↓ ↓**
 
@@ -25,14 +21,6 @@ categories: HomeWork Fuck
 
 ![image-20200806193714355](https://yilinfile-1258058813.cos.ap-shanghai.myqcloud.com/imagebed/20200806193716.png)
 
-
-
-![https://yilinfile-1258058813.cos.ap-shanghai.myqcloud.com/imagebed/20200806194131.png](https://yilinfile-1258058813.cos.ap-shanghai.myqcloud.com/imagebed/20200806194131.png)
-
 物理   **↓ ↓ ↓**
 
 ![image-20200806193835350](https://yilinfile-1258058813.cos.ap-shanghai.myqcloud.com/imagebed/20200806193837.png)
-
-
-
-![image-20200806194117569](https://yilinfile-1258058813.cos.ap-shanghai.myqcloud.com/imagebed/20200806194131.png)
